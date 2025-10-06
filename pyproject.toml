@@ -8,6 +8,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.8"
 pygame = "^2.6.1"
+box2d = "^2.3.10"
 
 
 [build-system]
